@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently undergoing B.Tech degree in ECE<br> 💡Passionate towards cybersecurity more like pentesting<br>🤝 Open for internships and jobs in this field <br>🌱 I’m currently working on setting up an EDR Homelab<br>💻 I have pawned numerous CTF's, machines and wrote writeups
+🔭 I’m currently undergoing B.Tech degree in ECE<br> 💡Passionate towards Networking and Devops <br>🤝 Open for internships and jobs in this field <br>🌱 I’m currently working on setting up web app on AWS and  automate the software process [Devops Project]<br>💻 I have pawned numerous CTF's, machines and wrote writeups
 
 
 ## 🌐 Socials:
